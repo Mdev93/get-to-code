@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(200, 194, 220);
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: x-large;
+    color: rgb(98, 27, 27);
+ }
+ p {
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: 900;
+    color: green;
+ }
